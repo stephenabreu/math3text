@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Math 3</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Math 3 Notebook</title>
+    <subtitle>Notes from LHS Math 3 Course</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
